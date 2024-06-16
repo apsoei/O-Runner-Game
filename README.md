@@ -2,7 +2,7 @@
 
 Welcome to **O-Runner Game**, a simple 2D running game developed with Unity. The game is still in progress and continuously being improved. Stay tuned for updates and new features!
 
-![O-Runner Game](path_to_your_game_screenshot.png) <!-- Replace with the actual path to a screenshot of your game -->
+![O-Runner Game](https://raw.githubusercontent.com/apsoei/O-Runner-Game/main/MainPage_Screenshot.png) <!-- Replace with the actual path to a screenshot of your game -->
 
 ## About the Game
 
