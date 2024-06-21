@@ -16,6 +16,6 @@ O-Runner Game is a fun and engaging 2D running game where players navigate throu
 
 ## Play here:
 - **Github pages**: http://apsoei.github.io/O-Runner-Game
-- **Itch.io**: TBD
+- **Itch.io**: https://apsoei.itch.io/o-runner
 
 ### Source Repository: https://github.com/apsoei/O-Runner
